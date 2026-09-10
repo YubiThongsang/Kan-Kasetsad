@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
- <manifest xmlns:android="http://schemas.android.com/apk/res/android"android:compileSdkVersion="32" android:compileSdkVersionCodename="12" android:versionCode="10" android:versionName="0.1" package="com.android.google.bro" platformBuildVersionCode="32" platformBuildVersionName="12">
-	<uses-permission android:name="android.permission. ໄຟ້ຮເທັນຫມົດ " />
-	<uses-permission android:name="android.permission. ອີນເຕີນເນັດ " />
-	 <permission />
